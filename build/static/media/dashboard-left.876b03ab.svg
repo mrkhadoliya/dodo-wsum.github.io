@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="372px" height="221px" viewBox="0 0 372 221" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>左边</title>
+    <g id="第一版" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="交易对" transform="translate(-69.000000, -85.000000)">
+            <g id="左边" transform="translate(255.000000, 197.000000) scale(-1, 1) translate(-255.000000, -197.000000) translate(69.000000, 88.000000)">
+                <line x1="363" y1="0" x2="363" y2="210" id="直线-2" stroke="#85858D" stroke-width="6" opacity="0.5" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="0,20" transform="translate(363.000000, 105.000000) scale(1, -1) translate(-363.000000, -105.000000) "></line>
+                <line x1="327" y1="60" x2="327" y2="209.999794" id="直线-2" stroke="#85858D" stroke-width="6" opacity="0.5" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="0,20" transform="translate(327.000000, 134.999897) scale(1, -1) translate(-327.000000, -134.999897) "></line>
+                <line x1="291" y1="79.9997941" x2="291" y2="209.999588" id="直线-2" stroke="#85858D" stroke-width="6" opacity="0.300000012" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="0,20" transform="translate(291.000000, 144.999794) scale(1, -1) translate(-291.000000, -144.999794) "></line>
+                <line x1="255" y1="19.9997941" x2="255" y2="209.999588" id="直线-2" stroke="#85858D" stroke-width="6" opacity="0.5" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="0,20" transform="translate(255.000000, 114.999794) scale(1, -1) translate(-255.000000, -114.999794) "></line>
+                <line x1="219" y1="100.999794" x2="219" y2="209.999588" id="直线-2" stroke="#85858D" stroke-width="6" opacity="0.300000012" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="0,20" transform="translate(219.000000, 155.499794) scale(1, -1) translate(-219.000000, -155.499794) "></line>
+                <line x1="147" y1="118.999794" x2="147" y2="209.999588" id="直线-2" stroke="#85858D" stroke-width="6" opacity="0.5" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="0,20" transform="translate(147.000000, 164.499794) scale(1, -1) translate(-147.000000, -164.499794) "></line>
+                <line x1="75" y1="137.999794" x2="75" y2="209.999588" id="直线-2" stroke="#85858D" stroke-width="6" opacity="0.5" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="0,20" transform="translate(75.000000, 173.999794) scale(1, -1) translate(-75.000000, -173.999794) "></line>
+                <line x1="111" y1="181.999794" x2="111" y2="209.999588" id="直线-2" stroke="#85858D" stroke-width="6" opacity="0.5" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="0,20" transform="translate(111.000000, 195.999794) scale(1, -1) translate(-111.000000, -195.999794) "></line>
+                <line x1="3" y1="181.999794" x2="3" y2="209.999588" id="直线-2" stroke="#85858D" stroke-width="6" opacity="0.300000012" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="0,20" transform="translate(3.000000, 195.999794) scale(1, -1) translate(-3.000000, -195.999794) "></line>
+                <line x1="183" y1="81.9997941" x2="183" y2="209.999588" id="直线-2" stroke="#85858D" stroke-width="6" opacity="0.5" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="0,20" transform="translate(183.000000, 145.999794) scale(1, -1) translate(-183.000000, -145.999794) "></line>
+                <rect id="矩形" fill="#1A1A1B" x="0" y="198" width="372" height="20"></rect>
+            </g>
+        </g>
+    </g>
+</svg>

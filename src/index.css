@@ -1,0 +1,179 @@
+@import url("https://fonts.googleapis.com/css2?family=Rubik:wght@300;400;500;600;700&display=swap");
+body {
+  margin: 0;
+  font-family: "Rubik", Arial, Helvetica, sans-serifs;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+.MuiTableRow-head {
+  color: "pink " !important;
+}
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* .bg-main {
+  min-height: 128vh;
+} */
+.transform-none {
+  text-transform: none !important;
+}
+.bg-left {
+  background: url("./images/dashboard-left.svg") no-repeat bottom left;
+}
+.bg-right {
+  background: url("./images/dashboard-right.svg") no-repeat bottom left;
+}
+.bg-main-img {
+  background: url("./images/DogeSpaceTree.png") no-repeat center right;
+  background-size: 45%;
+}
+.bg-dodo {
+  background: url("./images/bg-dodo.png") no-repeat center;
+  background-size: cover;
+}
+ul li::before {
+  content: "\2022";
+  color: #efa24e;
+  font-weight: bold;
+  display: inline-block;
+  width: 1em;
+  margin-left: -1em;
+}
+
+button {
+  outline: none !important;
+  /* text-transform: none !important; */
+}
+.bg-parallex {
+  background: url("./images/shutterstock.png") no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+  min-height: 100vh;
+}
+
+@media (min-width: 1024px) {
+  .crowdTabs .MuiAppBar-colorDefault {
+    width: 55% !important;
+    margin: auto;
+  }
+}
+.crowdTabs .MuiAppBar-colorDefault {
+  width: 70% !important;
+  margin: auto;
+}
+.chart-height {
+  height: 500px !important;
+}
+@media (max-width: 767px) {
+  .bg-main-img {
+    background: none;
+  }
+  .crowdTabs .MuiAppBar-colorDefault {
+    width: 100% !important;
+    margin: auto;
+  }
+}
+@media (max-width: 768px) {
+  .navbar-right {
+    bottom: 50px;
+  }
+  .chart-height {
+    height: 350px !important;
+  }
+}
+
+.crowdTabs .MuiAppBar-colorDefault {
+  color: rgba(0, 0, 0, 0.87);
+  background: transparent !important;
+}
+
+.crowdTabs .MuiTab-textColorPrimary.Mui-selected {
+  border: 2px solid #4c549c;
+  border-radius: 50px;
+}
+.crowdTabs .MuiTab-textColorPrimary {
+  color: #3b3b3b !important;
+  text-transform: none !important;
+}
+.crowdTabs .MuiTabs-flexContainer {
+  border-radius: 50px;
+  overflow: hidden;
+  display: flex;
+  background: #fff;
+}
+.crowdTabs .MuiTab-wrapper {
+  align-items: center !important;
+}
+/* .PrivateTabIndicator-colorPrimary-3 {
+  display: none;
+} */
+.options:hover .icon_right {
+  opacity: 1 !important;
+  transition: all 0.5s;
+}
+.icon_right {
+  opacity: 0 !important;
+}
+.MuiAppBar-colorDefault {
+  color: rgba(0, 0, 0, 0.87);
+  background-color: transparent !important;
+}
+.MuiPaper-elevation4 {
+  box-shadow: none !important;
+}
+.MuiTab-root {
+  min-width: 60px !important;
+  /* padding: 0 0 !important; */
+}
+.MuiTab-wrapper {
+  align-items: flex-start !important;
+}
+.MuiTab-textColorPrimary {
+  color: #3b3b3b !important;
+}
+.MuiTab-textColorPrimary.Mui-selected {
+  color: #4c549c !important;
+}
+.pool .MuiTab-textColorPrimary.Mui-selected {
+  color: #fff !important;
+  background-color: #4c549c !important;
+}
+.pool .MuiTab-textColorInherit.Mui-selected {
+  color: #fff !important;
+  background-color: #4c549c !important;
+}
+.bar-height {
+  height: 300px !important;
+}
+
+.MuiPaper-root {
+  background: transparent !important;
+}
+
+.MuiDialog-paperScrollPaper {
+  display: flex;
+  max-height: calc(100% - 208px) !important;
+  justify-content: center;
+}
+
+.MuiPaper-elevation24 {
+  box-shadow: none !important;
+}
+.MuiDialog-paperWidthSm {
+  min-height: 100vh;
+}
+
+.MuiOutlinedInput-root {
+  /*
+  border-top-left-radius: 8px !important;
+  border-bottom-left-radius: 8px !important;
+  border-top-right-radius: 0px !important;
+  border-bottom-right-radius: 0px !important;
+*/
+}
+
+ul li::before {
+  display: none !important;
+}

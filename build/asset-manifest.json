@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "./static/css/main.afcc748a.chunk.css",
+    "main.js": "./static/js/main.0d452fef.chunk.js",
+    "main.js.map": "./static/js/main.0d452fef.chunk.js.map",
+    "runtime-main.js": "./static/js/runtime-main.d092f1ea.js",
+    "runtime-main.js.map": "./static/js/runtime-main.d092f1ea.js.map",
+    "static/js/2.fd142961.chunk.js": "./static/js/2.fd142961.chunk.js",
+    "static/js/2.fd142961.chunk.js.map": "./static/js/2.fd142961.chunk.js.map",
+    "static/js/3.c33924a9.chunk.js": "./static/js/3.c33924a9.chunk.js",
+    "static/js/3.c33924a9.chunk.js.map": "./static/js/3.c33924a9.chunk.js.map",
+    "index.html": "./index.html",
+    "static/css/main.afcc748a.chunk.css.map": "./static/css/main.afcc748a.chunk.css.map",
+    "static/js/2.fd142961.chunk.js.LICENSE.txt": "./static/js/2.fd142961.chunk.js.LICENSE.txt",
+    "static/media/index.css": "./static/media/shutterstock.9f85bf47.png",
+    "static/media/arrow-right.81f30e4f.svg": "./static/media/arrow-right.81f30e4f.svg",
+    "static/media/icon-down.9c3af52b.svg": "./static/media/icon-down.9c3af52b.svg",
+    "static/media/icon09.c0f3cd2f.png": "./static/media/icon09.c0f3cd2f.png",
+    "static/media/info.cb930f75.svg": "./static/media/info.cb930f75.svg",
+    "static/media/menu.807e5002.svg": "./static/media/menu.807e5002.svg",
+    "static/media/newWsum1.0352db20.jpg": "./static/media/newWsum1.0352db20.jpg",
+    "static/media/newWsum2.cb70c964.jpg": "./static/media/newWsum2.cb70c964.jpg",
+    "static/media/newWsum3.d44f62a5.jpg": "./static/media/newWsum3.d44f62a5.jpg",
+    "static/media/newWsum4.f2f5e193.jpg": "./static/media/newWsum4.f2f5e193.jpg",
+    "static/media/newWsum5.2eb4b1fa.jpg": "./static/media/newWsum5.2eb4b1fa.jpg",
+    "static/media/newWsum6.e4e26ee8.jpg": "./static/media/newWsum6.e4e26ee8.jpg",
+    "static/media/qrcode.7fed7f7f.png": "./static/media/qrcode.7fed7f7f.png",
+    "static/media/search.50fc18f2.svg": "./static/media/search.50fc18f2.svg",
+    "static/media/wsum-io-logo.108b2260.png": "./static/media/wsum-io-logo.108b2260.png",
+    "static/media/wsum-logo.55844db4.png": "./static/media/wsum-logo.55844db4.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d092f1ea.js",
+    "static/js/2.fd142961.chunk.js",
+    "static/css/main.afcc748a.chunk.css",
+    "static/js/main.0d452fef.chunk.js"
+  ]
+}
